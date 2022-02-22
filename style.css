@@ -1,0 +1,22 @@
+.main-body{
+    margin-top: 100px;
+}
+.calc{
+    width: 400px;
+    height: 500px;
+    background-color: cadetblue;
+    margin-left: 600px;
+}
+#screen{
+    width: 335px;
+    height: 60px;
+    margin-left: 28px;
+    margin-top: 17px;
+    pointer-events: none;
+}
+.btn{
+    width: 65px;
+    height: 45px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
